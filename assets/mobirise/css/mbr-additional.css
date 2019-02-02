@@ -1848,7 +1848,7 @@ body {
 }
 .cid-rfkUxEBvcz {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #fafafa;
 }
 .cid-rfkUxEBvcz h3 {
@@ -1932,6 +1932,18 @@ body {
 }
 .cid-rfkUxEBvcz .section-content-text {
   text-align: left;
+}
+.cid-rgW4vYPhHz {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rgW4vYPhHz .mbr-text,
+.cid-rgW4vYPhHz blockquote {
+  color: #767676;
+}
+.cid-rgW4vYPhHz .mbr-text P {
+  color: #232323;
 }
 .cid-rfkZW3AG6V {
   padding-top: 15px;
