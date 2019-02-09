@@ -666,13 +666,13 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>簡易工作經驗說明：</b></p><p><b>1. &nbsp;國中數學家教 &nbsp; &nbsp; &nbsp; &nbsp;工作時間：半年</b></p><p><b>2. 倉儲貨運工讀生 &nbsp; 工作時間：暑假期間<br></b></p><p><b>3. 加油站工讀生 &nbsp; &nbsp; &nbsp; &nbsp;工作時間：4個月</b></p><p><b>4. 餐飲業服務生 &nbsp; &nbsp; &nbsp; &nbsp;工作時間：暑假期間</b></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>簡易工作經驗說明：</b></p><p><b>1. &nbsp;新創公司產學案 &nbsp; 工作時間：半年</b></p><p><b>2. &nbsp;國中數學家教 &nbsp; &nbsp; &nbsp; 工作時間：半年</b></p><p><b>3. 倉儲貨運工讀生 &nbsp; 工作時間：暑假期間<br></b></p><p><b>4. 加油站工讀生 &nbsp; &nbsp; &nbsp; &nbsp;工作時間：4個月</b></p><p><b>5. 餐飲業服務生 &nbsp; &nbsp; &nbsp; &nbsp;工作時間：暑假期間</b></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rgW4vYPhHz",
+          "_anchor": "content1-w",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-w"
+          "_params": {}
         },
         {
           "_styles": {
